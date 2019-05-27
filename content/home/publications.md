@@ -40,7 +40,7 @@ exclude_selected = false
 * "[Product Sourcing and Distribution Strategies under Supply Disruption and Recall Risks](https://ssrn.com/abstract=2961881)." (with Ying Rong and Z. Max Shen). *Production and Operations Management*. Accepted.
 
 
-* "[Robust Repositioning for Vehicle Sharing](https://doi.org/10.1287/msom.2018.0734)." (with Zhenyu Hu and Meilin Zhang). *Manufacturing & Service Operations Management*. Accepted.
+* "[Robust Repositioning for Vehicle Sharing](https://doi.org/10.1287/msom.2018.0734)." (with Zhenyu Hu and Meilin Zhang). *Manufacturing & Service Operations Management*. 2019.
 
 * "[Service Region Design for Urban Electric Vehicle Sharing Systems](http://dx.doi.org/10.1287/msom.2016.0611)." (with Ho-Yin Mak, Ying Rong, and Z. Max Shen). *Manufacturing & Service Operations Management​* 19(2), pp. 309–327, 2017.
 
