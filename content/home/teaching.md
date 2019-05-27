@@ -7,14 +7,22 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Custom Section"
+title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 30
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+## Undergraduate
+1. DSC3214 Introduction to Optimization
+	* 2018/2019 S1
+2. DBA3803/DSC3216 Predictive Analytics in Business
+	* 2017/2018 S1&2, 2018/2019 S1&2
+3. DSC3216 Forecasting for Managerial Decisions
+	* 2015/2016 S2, 2016/2017 S2
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+## PhD
+1. BDC6114 Logistics and Supply Chain
+	* 2016/2017 S2, 2017/2018 S2

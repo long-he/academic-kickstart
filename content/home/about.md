@@ -10,31 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Smart city operations (e.g., vehicle sharing, last-mile delivery)",
+    "Online retailing",
+    "Sustainable operations"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  institution = "University of California, Berkeley"
+  course = "Ph.D. in Operations Research"
+  year = 2015
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  institution = "The Hong Kong University of Science and Technology"
+  course = "B.Eng. in Logistics Management and Engineering"
+  year = 2010
  
 +++
 
-# Biography
+# Home
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am an assistant professor in Department of Analytics & Operations (DAO) at NUS Business School, National University of Singapore. Prior to joining NUS, I was a data scientist at @WalmartLabs, Walmart eCommerce in California. I received my Ph.D. in Operations Research from University of California, Berkeley and B.Eng. in Logistics Management and Engineering from The Hong Kong University of Science and Technology.
