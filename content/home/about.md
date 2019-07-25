@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Smart city operations (e.g., vehicle sharing, last-mile delivery)",
-    "Online retailing",
+    "Supply chain management",
     "Sustainable operations"
   ]
 

@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Publications"
+title = "Research"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -42,9 +42,7 @@ exclude_selected = false
 
 * "[Robust Repositioning for Vehicle Sharing](https://doi.org/10.1287/msom.2018.0734)." (with Zhenyu Hu and Meilin Zhang). *Manufacturing & Service Operations Management*. 2019.
 
-* "[Service Region Design for Urban Electric Vehicle Sharing Systems](http://dx.doi.org/10.1287/msom.2016.0611)." (with Ho-Yin Mak, Ying Rong, and Z. Max Shen). *Manufacturing & Service Operations Management* 19(2), pp. 309–327, 2017. 
-
-	[Winner of M&SOM Best Paper Award, 2019.]
+* "[Service Region Design for Urban Electric Vehicle Sharing Systems](http://dx.doi.org/10.1287/msom.2016.0611)." (with Ho-Yin Mak, Ying Rong, and Z. Max Shen). *Manufacturing & Service Operations Management* 19(2), pp. 309–327, 2017. [Winner of *M&SOM Best Paper Award*, 2019]
 
 	[M&SOM Blog: [Start Your Engine: Data-driven Planning for Car Sharing Systems for Smart Cities](https://www.informs.org/Blogs/M-SOM-Blogs/M-SOM-Review/Start-Your-Engine-Data-driven-Planning-for-Car-Sharing-Systems-for-Smart-Cities).]
 
@@ -55,7 +53,7 @@ exclude_selected = false
 
 * "[Charging Electric Vehicle Sharing Fleet](https://ssrn.com/abstract=3223735)." (with Guangrui Ma, Wei Qi, and Xin Wang).
 
-* "[Data-Driven Order Assignment for Last Mile Delivery](https://ssrn.com/abstract=3179994)." (with Sheng Liu and Z. Max Shen).
+* "[On-Time Last Mile Delivery: Order Assignment with Travel Time Predictors](https://ssrn.com/abstract=3179994)." (with Sheng Liu and Z. Max Shen). [Previous title: "Data-Driven Order Assignment for Last Mile Delivery"]
 
 * "[On the Performance of Tailored Base-Surge Policies: Theory and Application at Walmart.com](https://ssrn.com/abstract=3090177)." (with Linwei Xin, Jagtej Bewli, John Bowman, Huijun Feng, and Z. Tony Qin).
 
