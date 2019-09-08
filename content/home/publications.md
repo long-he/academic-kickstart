@@ -37,21 +37,21 @@ publication_type = "-1"
 exclude_selected = false
 +++
 ## Journal Articles
+* "[Charging Electric Vehicle Sharing Fleet](https://ssrn.com/abstract=3223735)." (with Guangrui Ma, Wei Qi, and Xin Wang). *Manufacturing & Service Operations Management*. Forthcoming.
+
 * "[Product Sourcing and Distribution Strategies under Supply Disruption and Recall Risks](https://doi.org/10.1111/poms.13065)." (with Ying Rong and Z. Max Shen). *Production and Operations Management*. 2019.
 
 
 * "[Robust Repositioning for Vehicle Sharing](https://doi.org/10.1287/msom.2018.0734)." (with Zhenyu Hu and Meilin Zhang). *Manufacturing & Service Operations Management*. 2019.
 
-* "[Service Region Design for Urban Electric Vehicle Sharing Systems](http://dx.doi.org/10.1287/msom.2016.0611)." (with Ho-Yin Mak, Ying Rong, and Z. Max Shen). *Manufacturing & Service Operations Management* 19(2), pp. 309–327, 2017. [Winner of *M&SOM Best Paper Award*, 2019]
+* "[Service Region Design for Urban Electric Vehicle Sharing Systems](http://dx.doi.org/10.1287/msom.2016.0611)." (with Ho-Yin Mak, Ying Rong, and Z. Max Shen). *Manufacturing & Service Operations Management* 19(2), pp. 309–327, 2017. [M&SOM Review Blog](https://www.informs.org/Blogs/M-SOM-Blogs/M-SOM-Review/Start-Your-Engine-Data-driven-Planning-for-Car-Sharing-Systems-for-Smart-Cities)
 
-	[M&SOM Blog: [Start Your Engine: Data-driven Planning for Car Sharing Systems for Smart Cities](https://www.informs.org/Blogs/M-SOM-Blogs/M-SOM-Review/Start-Your-Engine-Data-driven-Planning-for-Car-Sharing-Systems-for-Smart-Cities).]
+	- Winner of *M&SOM Best Paper Award*, 2019
 
 * "[Stochastic Control for Smart Grid Users with Flexible Demand](https://ieeexplore.ieee.org/document/6558842)." (with Yong Liang, Xinyu Cao, and Z. Max Shen). *IEEE Transactions on Smart Grid* 4.4 (2013) 2296-2308.
 
 ## Working Papers
 * "[Robust Vehicle Allocation with Uncertain Covariates](https://ssrn.com/abstract=3307337)." (with Zhaowei Hao, Zhenyu Hu and Jun Jiang).
-
-* "[Charging Electric Vehicle Sharing Fleet](https://ssrn.com/abstract=3223735)." (with Guangrui Ma, Wei Qi, and Xin Wang).
 
 * "[On-Time Last Mile Delivery: Order Assignment with Travel Time Predictors](https://ssrn.com/abstract=3179994)." (with Sheng Liu and Z. Max Shen). [Previous title: "Data-Driven Order Assignment for Last Mile Delivery"]
 
