@@ -44,9 +44,9 @@ exclude_selected = false
 
 * "[Robust Repositioning for Vehicle Sharing](https://doi.org/10.1287/msom.2018.0734)." (with Zhenyu Hu and Meilin Zhang). *Manufacturing & Service Operations Management*. 2019.
 
-* "[Service Region Design for Urban Electric Vehicle Sharing Systems](http://dx.doi.org/10.1287/msom.2016.0611)." (with Ho-Yin Mak, Ying Rong, and Z. Max Shen). *Manufacturing & Service Operations Management* 19(2), pp. 309–327, 2017. [M&SOM Review Blog](https://www.informs.org/Blogs/M-SOM-Blogs/M-SOM-Review/Start-Your-Engine-Data-driven-Planning-for-Car-Sharing-Systems-for-Smart-Cities)
-
-	- Winner of *M&SOM Best Paper Award*, 2019
+* "[Service Region Design for Urban Electric Vehicle Sharing Systems](http://dx.doi.org/10.1287/msom.2016.0611)." (with Ho-Yin Mak, Ying Rong, and Z. Max Shen). *Manufacturing & Service Operations Management* 19(2), pp. 309–327, 2017. [[M&SOM Review Blog](https://www.informs.org/Blogs/M-SOM-Blogs/M-SOM-Review/Start-Your-Engine-Data-driven-Planning-for-Car-Sharing-Systems-for-Smart-Cities)]
+	* M&SOM Best Paper Award, INFORMS, 2019
+	* TSL Best Paper Award, INFORMS, 2019
 
 * "[Stochastic Control for Smart Grid Users with Flexible Demand](https://ieeexplore.ieee.org/document/6558842)." (with Yong Liang, Xinyu Cao, and Z. Max Shen). *IEEE Transactions on Smart Grid* 4.4 (2013) 2296-2308.
 
