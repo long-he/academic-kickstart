@@ -53,6 +53,7 @@ exclude_selected = false
 	* M&SOM Best Paper Award, 2019
 	* INFORMS TSL Best Paper Award, 2019
 
+
 * "[Stochastic Control for Smart Grid Users with Flexible Demand](https://ieeexplore.ieee.org/document/6558842)." (with Yong Liang, Xinyu Cao, and Z. Max Shen). *IEEE Transactions on Smart Grid* 4.4 (2013) 2296-2308.
 
 ## Working Papers
