@@ -30,4 +30,6 @@ weight = 5
 
 # Home
 
-I am an assistant professor in Department of Analytics & Operations (DAO) at NUS Business School, National University of Singapore. Prior to joining NUS, I was a data scientist at @WalmartLabs, Walmart eCommerce in California. I received my Ph.D. in Operations Research from University of California, Berkeley and B.Eng. in Logistics Management and Engineering from The Hong Kong University of Science and Technology.
+I am an assistant professor in Department of Analytics & Operations (DAO) at NUS Business School, National University of Singapore. Prior to joining NUS, I was a data scientist at @WalmartLabs, Walmart eCommerce in California. I received my Ph.D. in Operations Research from University of California, Berkeley and B.Eng. in Logistics Management and Engineering from The Hong Kong University of Science and Technology. My current research involves using data-driven approaches to address problems in smart city operations (e.g., vehicle sharing, last-mile delivery) and supply chain management.
+
+[My official NUS Webpage](https://bizfaculty.nus.edu.sg/faculty-details/?profId=470)
