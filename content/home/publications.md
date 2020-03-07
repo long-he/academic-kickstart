@@ -60,8 +60,6 @@ exclude_selected = false
 
 * "[On the Performance of Tailored Base-Surge Policies: Theory and Application at Walmart.com](https://ssrn.com/abstract=3090177)." (with Linwei Xin, Jagtej Bewli, John Bowman, Huijun Feng, and Z. Tony Qin).
 
-* "[Spatial Pricing and Product Allocation in Online Retailing].".
-
 ## Book Chapter
 * "[Operations Management of Vehicle Sharing Systems](https://doi.org/10.1007/978-3-030-01863-4_19)." (with Ho-Yin Mak and Ying Rong). 2018. *Sharing Economy: Making Supply Meet Demand*, M. Hu (Ed.), in *Springer Series in Supply Chain Management*, C. Tang (Series Ed.)
 
