@@ -39,10 +39,10 @@ exclude_selected = false
 ## Journal Articles
 * "[On-Time Last Mile Delivery: Order Assignment with Travel Time Predictors](https://ssrn.com/abstract=3179994)." (with Sheng Liu and Z. Max Shen). *Management Science*. Forthcoming.
 
-* "[Robust Vehicle Pre‐Allocation with Uncertain Covariates](https://doi.org/10.1111/poms.13143)." (with Zhaowei Hao, Zhenyu Hu and Jun Jiang). *Production and Operations Management* 29(4), 955-972, 2020.
+* "[Robust Vehicle Pre‐Allocation with Uncertain Covariates](https://doi.org/10.1111/poms.13143)." (with Zhaowei Hao, Zhenyu Hu and Jun Jiang). *Production and Operations Management* 29(4), 955-972. 2020.
 
 
-* "[Charging an Electric Vehicle Sharing Fleet](https://doi.org/10.1287/msom.2019.0851)." (with Guangrui Ma, Wei Qi, and Xin Wang). *Manufacturing & Service Operations Management*. 2020.
+* "[Charging an Electric Vehicle-Sharing Fleet](https://doi.org/10.1287/msom.2019.0851)." (with Guangrui Ma, Wei Qi, and Xin Wang). *Manufacturing & Service Operations Management*. 2020.
 
 * "[Product Sourcing and Distribution Strategies under Supply Disruption and Recall Risks](https://doi.org/10.1111/poms.13065)." (with Ying Rong and Z. Max Shen). *Production and Operations Management* 29(1), 9-23. 2020.
 
