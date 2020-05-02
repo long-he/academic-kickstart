@@ -57,6 +57,8 @@ exclude_selected = false
 * "[Stochastic Control for Smart Grid Users with Flexible Demand](https://ieeexplore.ieee.org/document/6558842)." (with Yong Liang, Xinyu Cao, and Z. Max Shen). *IEEE Transactions on Smart Grid* 4.4 (2013) 2296-2308.
 
 ## Working Papers
+* "[Spatial-Data-Driven Drone Placement for Emergency Response](https://ssrn.com/abstract=3579830)." (with Irfan Soudagar).
+
 * "[Managing Electric Vehicle Charging: An Exponential Cone Programming Approach](https://ssrn.com/abstract=3548028)." (with Li Chen and Yangfang Zhou).
 
 * "[On the Performance of Tailored Base-Surge Policies: Theory and Application at Walmart.com](https://ssrn.com/abstract=3090177)." (with Linwei Xin, Jagtej Bewli, John Bowman, Huijun Feng, and Z. Tony Qin).
