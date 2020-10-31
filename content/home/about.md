@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Smart city operations (e.g., vehicle sharing, last-mile delivery)",
     "Supply chain management",
-    "Sustainable operations"
+    "Business Analytics"
   ]
 
 # List your qualifications (such as academic degrees).
