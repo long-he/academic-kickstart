@@ -59,9 +59,9 @@ exclude_selected = false
 ## Working Paper
 * "[Taming the Long Tail of Inventory: Gambler's Fallacy in Intermittent Demand Management](https://ssrn.com/abstract=3724201)." (with Sheng Bi and Chung-Piaw Teo).
 
-* "[Spatial-Data-Driven Drone Placement for Emergency Response](https://ssrn.com/abstract=3579830)." (with Irfan Soudagar).
-
 * "[An Exponential Cone Programming Approach for Managing Electric Vehicle Charging](https://ssrn.com/abstract=3548028)." (with Li Chen and Yangfang Zhou).
+
+* "[Spatial-Data-Driven Drone Placement for Emergency Response](https://ssrn.com/abstract=3579830)." (with Irfan Soudagar).
 
 * "[On the Performance of Tailored Base-Surge Policies: Theory and Application at Walmart.com](https://ssrn.com/abstract=3090177)." (with Linwei Xin, Jagtej Bewli, John Bowman, Huijun Feng, and Z. Tony Qin).
 

@@ -23,6 +23,10 @@ weight = 30
 3. DSC3216 Forecasting for Managerial Decisions
 	* Spring 2016, Spring 2017
 
+## MSBA
+1. DBA5106 Foundation in Business Analytics
+	* Fall 2020
+
 ## PhD
 1. BDC6114 Logistics and Supply Chain
 	* Spring 2017, Spring 2018, Fall 2019
